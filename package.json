@@ -13,12 +13,21 @@
     "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
     "gulp-babel": "^6.1.1",
+    "gulp-jshint": "^2.0.0",
+    "jquery": "^2.1.4",
+    "jshint": "^2.9.1",
+    "jshint-jsx": "^0.4.1",
+    "jshint-stylish": "^2.1.0",
     "marked": "^0.3.5",
     "react": "^0.14.3",
-    "react-dom": "^0.14.3"
+    "react-dom": "^0.14.3",
+    "react-tools": "^0.13.3"
   },
   "devDependencies": {
     "babel-preset-react": "^6.3.13",
-    "gulp-react": "^3.1.0"
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-react": "^3.1.0",
+    "jquery": "^2.1.4"
   }
 }
