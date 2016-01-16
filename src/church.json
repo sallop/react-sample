@@ -1,0 +1,28 @@
+[{
+  "id": 306,
+  "team": 6,
+  "fullname": "小X戸秀子",
+  "christian_name": "ベルナデッタ",
+  "birthday": "Sat May 28 1955 00:00:00 GMT+0900 (JST)",
+  "telephone": "2X9-3X26",
+  "postcode": "89X-0X43",
+  "address": "X田2-X-1X" 
+},{
+  "id": 307,
+  "team": 6,
+  "fullname": "X滝X子",
+  "christian_name": "マリア",
+  "birthday": "Fri May 23 1941 00:00:00 GMT+0900 (JST)",
+  "telephone": "2X0-3X20",
+  "postcode": "8X1-0X43",
+  "address": "谷X中央X-XX45-9"
+},{
+  "id": 308,
+  "team": 6,
+  "fullname": "小X晋",
+  "christian_name": "ジェラルド",
+  "birthday": "Thu Sep 06 1973 00:00:00 GMT+0900 (JST)",
+  "telephone": "260-3720",
+  "postcode": "891-0143",
+  "address": "谷X中央X-XX45-9"
+}]
